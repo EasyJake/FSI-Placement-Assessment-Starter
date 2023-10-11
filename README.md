@@ -29,3 +29,6 @@ Use the below directions and grading rubric as a guide for completing each porti
 - [ ] The table updates the appropriate table cell for the specific cookie when each cookie's +1 or -1 button is clicked.
 - [ ] The table updates the total cell in the table footer that tallies all the cookies.
 - [ ] Do not allow the number of cookies to be less than zero for any of the three cookies.
+
+
+easyJake
